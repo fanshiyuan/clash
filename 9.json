@@ -1,6 +1,7 @@
 // 配置地址 --> https://raw-gh.gcdn.mirr.one/XuQqu/PinkBird/main/adult.json
 {
-"sites": [
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanshiyuan/clash/refs/heads/main/custom_spider.jar",
+ "sites": [
 {"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Hu4","name":"四虎","type":3,"api":"csp_Hu4","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
 {"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
