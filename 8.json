@@ -867,11 +867,4 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-//"spider": "https://ghproxy.com/https://github.com/catvod/CatVodTVSpider/raw/master/jar/custom_spider.jar"
-
-//"spider": "https://github.com/YuanHsing/OneClickRun/blob/master/xpath/main_spider.txt?raw=true",
-
-//"spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
-
-"spider": "clan://htdocs/0MeowXB/XBiubiuLA3.jar"
 }
