@@ -1,6 +1,5 @@
 {
-
-"sites":[
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanshiyuan/clash/refs/heads/main/custom_spider.jar",
 
     {"key":"*523资源","name":"*523资源","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
     {"key":"*丝袜资源","name":"*丝袜资源","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/","searchable":0,"quickSearch":0},
