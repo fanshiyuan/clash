@@ -1,5 +1,7 @@
 ﻿{
-  "sites": [
+  https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanshiyuan/clash/refs/heads/main/pg.jar
+   
+"sites": [
 
 {"key":"*91麻豆","name":"*91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
