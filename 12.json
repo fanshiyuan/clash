@@ -1,5 +1,5 @@
-﻿{
-	"sites": [
+{
+  "spider": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/fanshiyuan/clash/refs/heads/main/custom_spider.jar"
 		{
 		  "key": "csp_biubiu_在线之家",
 		  "name": "[默认]防尴尬源",
